@@ -1,12 +1,9 @@
 /* font-family: 'Roboto', sans-serif;
 font-family: 'Mr Dafoe', cursive; */
 
-
-
 body{
     margin: 0;
     padding: 0;
-   
 }
 header>p{
     text-align: right;
@@ -23,7 +20,7 @@ header img{
 }
 /*  Main Section 1 */
 section{
-    background: url(./img/cleo-topper.jpg);
+    background: url(img/cleo-topper.jpg);
     background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: cover;
@@ -51,9 +48,6 @@ section:nth-of-type(1)>p:nth-of-type(1)::after{
     padding: 1em;
 }
 /* Main p tag */
-section:nth-of-type(1){
-    
-}
 section>p:nth-of-type(2){
     color: #fff;
     word-spacing: .3em;
@@ -77,7 +71,6 @@ section>div>img{
     height: 5em;
     margin-top: 20em;
 }
-
 section>div:nth-of-type(1)>p:nth-of-type(1){
     color: #e7bc0e;
     text-transform: uppercase;
@@ -146,14 +139,14 @@ section>p:nth-of-type(3)>span{
     color: #fff;
 }
 article{
-    background: url(./img/see.png);
+    background: url(img/see.png);
     background-repeat: no-repeat;
   	background-size: cover;
     background-position: center; 
     height: 120vh;  
 }
 article>div{
-    background: url(./img/kid.png);
+    background: url(img/kid.png);
     background-repeat: no-repeat;
   	background-size: cover;
     background-position: center; 
