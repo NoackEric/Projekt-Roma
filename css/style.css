@@ -139,14 +139,14 @@ section>p:nth-of-type(3)>span{
     color: #fff;
 }
 article{
-    background: url(/img/see.png);
+    background: url(https://raw.githubusercontent.com/NoackEric/Projekt-Roma/master/img/see.png);
     background-repeat: no-repeat;
   	background-size: cover;
     background-position: center; 
     height: 120vh;  
 }
 article>div{
-    background: url(/img/kid.png);
+    background: url(https://raw.githubusercontent.com/NoackEric/Projekt-Roma/master/img/kid.png);
     background-repeat: no-repeat;
   	background-size: cover;
     background-position: center; 
