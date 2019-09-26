@@ -20,7 +20,7 @@ header img{
 }
 /*  Main Section 1 */
 section{
-    background: url(/img/cleo-topper.jpg);
+    background: url(../img/cleo-topper.jpg);
     background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: cover;
