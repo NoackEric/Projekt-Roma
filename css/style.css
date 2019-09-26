@@ -20,7 +20,7 @@ header img{
 }
 /*  Main Section 1 */
 section{
-    background: url(/img/cleo-topper.jpg);
+    background: url(../img/cleo-topper.jpg);
     background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: cover;
@@ -139,14 +139,14 @@ section>p:nth-of-type(3)>span{
     color: #fff;
 }
 article{
-    background: url(/img/see.png);
+    background: url(../img/see.png);
     background-repeat: no-repeat;
   	background-size: cover;
     background-position: center; 
     height: 120vh;  
 }
 article>div{
-    background: url(/img/kid.png);
+    background: url(../img/kid.png);
     background-repeat: no-repeat;
   	background-size: cover;
     background-position: center; 
