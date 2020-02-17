@@ -22,9 +22,9 @@ header img{
 section{
     background: url(../img/cleo-topper.jpg);
     background-repeat: no-repeat;
-  	background-attachment: fixed;
-  	background-size: cover;
-  	background-position: center; 
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center; 
     position:relative;
     padding-bottom: 200px;
 }
